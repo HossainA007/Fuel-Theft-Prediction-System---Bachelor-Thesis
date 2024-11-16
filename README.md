@@ -23,27 +23,27 @@ This project is an **Integrated Vehicle Monitoring, Maintenance, and Management 
 ### **1. OBD-II Integration**
 - **Data Collection**:  
   Data is gathered from vehicle sensors via the **OBD-II device** and transferred to a mobile application.  
-  ![OBD-II Workflow](Picture_1.png)
+  ![OBD-II Workflow](Stepwise_Procedure.png)
 
 ---
 
 ### **2. Web Server & Mobile Interface**
 - **Real-Time Monitoring**:  
   Live dashboards display data like fuel economy, throttle position, and remaining fuel.  
-  ![ECU Dashboard](Picture_4.png)
+  ![ECU Dashboard](Website.png)
 
 ---
 
 ### **3. Fuel Theft Detection**
 - **Algorithm Workflow**:  
   Detects sudden drops in fuel levels during idle states or when the engine is off.  
-  ![Fuel Theft Detection Flowchart](Picture_2.png)
+  ![Fuel Theft Detection Flowchart](Algorithm.png)
 
 ---
 
 ### **4. Case Study**
 - Simulated thefts and fuel refilling events to test the system.  
-  ![Fuel Theft Case](Picture_5.png)
+  ![Fuel Theft Case](Result.png)
 
 ---
 
